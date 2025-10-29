@@ -1,0 +1,121 @@
+{
+    "ReverseCategorys": false,  
+    "ShowPrivateWorld": true,
+    "Categorys": [
+
+
+                    {
+                        "Category": "謎解き_Game_World",
+                        "Worlds": [
+
+                                                                    {
+                                    "ID": "wrld_6d3be9ca-40ed-4685-b517-a90b6b6235a7",
+                                    "Name": "謎解きワールド七不思議-怪事件クラスター-",
+                                    "RecommendedCapacity": 0,
+                                    "Capacity": 32,
+                                    "Description": "学園にまつわる“七不思議”をテーマにした、ミステリアスで没入感のある謎解きワールド。プレイヤーは調査員となり、怪事件の真相を追っていくゲーム。- プレイ時間の目安は60分以上。",
+                                    "ReleaseStatus": "public"
+                                },
+
+                                {
+                                    "ID": "wrld_0073106b-ad39-4dd4-abe6-42df6837fed3",
+                                    "Name": "いなくなったフレンドを探すワールド",
+                                    "RecommendedCapacity": 0,
+                                    "Capacity": 32,
+                                    "Description": "静かな不気味さと孤独感が漂う一人用の探索型ワールドで、物語を追いながら失踪した友達の手がかりを探す没入感が魅力。プレイ時間は短め。- おひつじ座（難易度★★☆☆、30〜60分）- ふたご座（難易度★★★★、60〜120分）- うお座（難易度★★★★、60〜100分）",
+                                    "ReleaseStatus": "public"
+                                },
+
+                                {
+                                    "ID": "wrld_d0f0db54-5270-4b9e-8efb-5de805783ce9",
+                                    "Name": "プラネタリドル -PLANETARIDDLE",
+                                    "RecommendedCapacity": 0,
+                                    "Capacity": 32,
+                                    "Description": "12星座をテーマにした美しい世界で、個性豊かな謎解きが楽しめる大型脱出ゲームワールド。好きな順番で挑戦でき、初心者から上級者までじっくり遊べるのが魅力。",
+                                    "ReleaseStatus": "public"
+                                },
+
+                                {
+                                    "ID": "wrld_557cf461-decf-4cf9-b753-48f00a88800d",
+                                    "Name": "脱出ゲーム「大豪邸からの脱出」",
+                                    "RecommendedCapacity": 0,
+                                    "Capacity": 32,
+                                    "Description": "VRChat内で遊べる豪華な屋敷を舞台にした脱出ゲームワールド。制限時間なしでじっくり謎解きが楽しめる、初心者にも優しい設計が魅力。平均的なプレイ時間は1〜2時間程度。",
+                                    "ReleaseStatus": "public"
+                                },
+
+                                {
+                                    "ID": "wrld_4edaea72-1a14-4f18-91aa-11d5248f0db5",
+                                    "Name": "Pop Escape",
+                                    "RecommendedCapacity": 0,
+                                    "Capacity": 32,
+                                    "Description": "VRChat内の本格的な脱出ゲームワールドで、複数の部屋に仕掛けられた謎を解きながら進む高難度の謎解き体験が楽しめる。観察力とひらめきが試される、じっくり遊べるワールド。- 初見クリアには 4〜5時間 程度かかるボリューム。",
+                                    "ReleaseStatus": "public"
+                                },
+
+                                {
+                                    "ID": "wrld_16a115b9-53e9-4182-b90e-9d44005fe669",
+                                    "Name": "脱出ゲーム「VEIL」",
+                                    "RecommendedCapacity": 0,
+                                    "Capacity": 32,
+                                    "Description": "VRChat内で遊べる高難易度の脱出ゲームワールドで、謎解きの完成度と演出の美しさが際立つ作品。60分のタイムアタック形式。",
+                                    "ReleaseStatus": "public"
+                                },
+
+                                {
+                                    "ID": "wrld_869a5530-c825-4236-a749-7f7c45cb2d01",
+                                    "Name": "「Keys」",
+                                    "RecommendedCapacity": 0,
+                                    "Capacity": 32,
+                                    "Description": "謎解き＆探索型の脱出ゲームワールドで、シンプルながらも緊張感のある展開が魅力。- 初心者にも優しい設計。- 平均プレイ時間：30分〜1時間。",
+                                    "ReleaseStatus": "public"
+                                },
+
+                                {
+                                    "ID": "wrld_d6a855ff-8280-4977-9a21-26a594da53aa",
+                                    "Name": "「月と星の声 - Moon And Star Voice」",
+                                    "RecommendedCapacity": 0,
+                                    "Capacity": 32,
+                                    "Description": "「月と星の声 - Moon And Star Voice」は、幻想的な空間と静かな物語の中で謎解きを楽しめる、没入感の高いVRChatワールド。平均プレイ時間は約60分。",
+                                    "ReleaseStatus": "public"
+                                },
+
+                                {
+                                    "ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed",
+                                    "Name": "「PROJECT˸ SUMMER FLARE」",
+                                    "RecommendedCapacity": 0,
+                                    "Capacity": 32,
+                                    "Description": "VRChat屈指の没入型ワールドで、夏の情景と壮大な物語が融合した体験型アート謎解きワールド。目安クリア時間は約2〜3時間。",
+                                    "ReleaseStatus": "public"
+                                }
+
+                                ]
+                    },
+
+
+                    {
+                        "Category": "beautiful_world",
+                        "Worlds": [
+                            
+                                                                        {
+                                        "ID": "wrld_be1c0f21-e144-4976-bc1c-cbdcd8916aae",
+                                        "Name": "東雲ヶ埼海岸",
+                                        "RecommendedCapacity": 0,
+                                        "Capacity": 32,
+                                        "Description": "花火が見れるワールド",
+                                        "ReleaseStatus": "public"
+                                    },
+
+                                    {
+                                        "ID": "wrld_ec8a1907-eb2b-4087-8229-c4dfbd6aa3c0",
+                                        "Name": "眠る月想う花",
+                                        "RecommendedCapacity": 0,
+                                        "Capacity": 32,
+                                        "Description": "すこしびっくりきれい系ワールド",
+                                        "ReleaseStatus": "public"
+                                    }
+
+                                    ]
+                    }
+                ]
+}
